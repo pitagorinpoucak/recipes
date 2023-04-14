@@ -29,3 +29,13 @@ img {
   height: 200px;
   width: auto;
 }
+
+h4.ingredients,
+h4.steps {
+  color: darkgreen;
+  text-decoration: overline underline;
+}
+
+.ingredients.list {
+  list-style-type: square;
+}
