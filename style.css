@@ -1,0 +1,31 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.title {
+  margin: none;
+  text-align: center;
+  color: darkslateblue;
+}
+
+#link-list {
+  text-align: center;
+  list-style: none;
+  margin: none;
+}
+
+#link-list li a {
+  color: brown;
+  font-weight: 600;
+  text-decoration-line: none;
+}
+
+#link-list li a:hover {
+  color: burlywood;
+  text-decoration-line: underline;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
